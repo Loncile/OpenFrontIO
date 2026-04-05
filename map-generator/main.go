@@ -22,7 +22,7 @@ var maps = []struct {
 	IsTest bool
 }{
 	{Name: "africa"},
-  {Name: "HumidAfrica"},
+  {Name: "HumidSahara"},
 	{Name: "asia"},
 	{Name: "australia"},
 	{Name: "achiran"},
