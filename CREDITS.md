@@ -66,7 +66,8 @@ Licensed under [CC0 1.0.](https://creativecommons.org/publicdomain/zero/1.0/lega
 
 ### Humid Sahara Map
 
-Source: Think Africa (https://thinkafrica.net/africanhumidperiod/)
+Source: YNot1989 AKA Sean McKnight  
+(https://www.deviantart.com/ynot1989/art/Seas-of-the-Sahara-605599101)
 
 ## Icons
 
