@@ -72,7 +72,6 @@ Topographic map of Sumatra. Created with GMT from publicly released SRTM data. F
 CC BY-SA 3.0
 File:Sumatra Topography.png
 
-
 ## Icons
 
 ### [The Noun Project](https://thenounproject.com/)
