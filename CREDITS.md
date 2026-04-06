@@ -66,9 +66,9 @@ Licensed under [CC0 1.0.](https://creativecommons.org/publicdomain/zero/1.0/lega
 
 ### Strait Of Malacca Map
 
-https://commons.wikimedia.org/wiki/User:Sadalmelik#/media/File:Sumatra_Topography.png
+[https://commons.wikimedia.org/wiki/User:Sadalmelik#/media/File:Sumatra_Topography.png](https://commons.wikimedia.org/wiki/File:Sumatra_Topography.png#/media/File:Sumatra_Topography.png)
 Sadalmelik - Own work
-Topographic map of Sumatra. Created with GMT from publicly released SRTM data. For locator vesion, see Image:Sumatra Locator Topography.png
+Topographic map of Sumatra. Created with GMT from publicly released SRTM data. For locator version, see Image:Sumatra Locator Topography.png
 CC BY-SA 3.0
 File:Sumatra Topography.png
 
