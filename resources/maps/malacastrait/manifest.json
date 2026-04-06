@@ -20,7 +20,7 @@
     "width": 458,
     "height": 411,
     "num_land_tiles": 51062
-    {
+  },
       "coordinates": [
         1268,
         730
@@ -38,8 +38,8 @@
     },
     {
       "coordinates": [
-        1591,
-        1747
+        1328,
+        1284
       ],
       "flag": "id",
       "name": "Sumatra"
